@@ -1,0 +1,2 @@
+﻿metric,k,accuracy,precision,recall,f1
+manhattan,9,0.318,0.39192312037414695,0.318,0.30263476058243405
